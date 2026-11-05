@@ -18,10 +18,10 @@ Latest prebuilt ready-to-use 32 and 64 bit versions are available for download v
 Please note: Most modern systems run 64-bit Windows. If you're unsure, download the 64 bit build first.
 
 - **64 bit (x64) – Recommended for Windows 10/11**
-  - [Download latest x64 build](./releases/download/1.3/SV-Foster-UnSign-1.3-x64.zip)
+  - [Download latest x64 build](https://github.com/SV-Foster/UnSign/releases/download/1.3/SV-Foster-UnSign-1.3-x64.zip)
 
 - **32 bit (x86)**
-  - [Download latest x86 build](./releases/download/1.3/SV-Foster-UnSign-1.3-x86.zip)
+  - [Download latest x86 build](https://github.com/SV-Foster/UnSign/releases/download/1.3/SV-Foster-UnSign-1.3-x86.zip)
 
 Each archive contains:
 
@@ -33,7 +33,7 @@ Each archive contains:
 
 If you need a specific version or an archived release, visit the project's Releases page:
 
-* [All Releases](./releases)
+* [All Releases](https://github.com/SV-Foster/UnSign/releases)
 
 
 ## Installation
